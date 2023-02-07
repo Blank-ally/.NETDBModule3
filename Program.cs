@@ -11,7 +11,7 @@
           //utc universal time code which will
             var now = DateTime.UtcNow;*/
 
-
+            //why wont you just push the changes 
            var date = DateTime.Now;
 
            Console.WriteLine($"1. {date,40:MMMM d, yyyy}");
